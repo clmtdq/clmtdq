@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <h2>Programming Languages :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,Angular,py,c,cpp,html,css,ocaml,java,rust)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=js,angular,py,c,cpp,html,css,ocaml,java,rust)](https://skillicons.dev)</br>
 
 <h2>More Skills :</h2>
 
