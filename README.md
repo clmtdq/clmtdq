@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian,ubuntu)](https://skillicons.dev)</br>
 
-    🌱Currently I'm learning Rust 
+    🌱Currently I'm learning Rust and Flutter
     👯 I’m looking to collaborate with other developers.
     
 🏠 Homepage
